@@ -1,0 +1,8 @@
+D:\Desktop\Web_Development\Certificate#7\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.csproj.AssemblyReference.cache
+D:\Desktop\Web_Development\Certificate#7\UserManagementAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Desktop\Web_Development\Certificate#7\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Web_Development\Certificate#7\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.AssemblyInfoInputs.cache
+D:\Desktop\Web_Development\Certificate#7\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.AssemblyInfo.cs
+D:\Desktop\Web_Development\Certificate#7\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.csproj.CoreCompileInputs.cache
+D:\Desktop\Web_Development\Certificate#7\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\Web_Development\Certificate#7\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.MvcApplicationPartsAssemblyInfo.cache
