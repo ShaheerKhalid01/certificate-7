@@ -1,4 +1,5 @@
 using Microsoft.OpenApi.Models; // correct namespace for Swagger
+using UserManagementAPI.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +16,11 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 var app = builder.Build();
+
+// Middleware order matters
+app.UseMiddleware<LoggingMiddleware>(); // 1. Logging (log all requests)
+app.UseMiddleware<AuthenticationMiddleware>(); // 2. Authentication
+app.UseMiddleware<ErrorHandlingMiddleware>(); // 3. Error handling
 
 // Configure middleware
 if (app.Environment.IsDevelopment())

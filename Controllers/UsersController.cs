@@ -124,6 +124,13 @@ namespace UserManagementAPI.Controllers
                 return StatusCode(500, $"Internal server error: {ex.Message}");
             }
         }
+
+        // TEST endpoint to force an exception
+        [HttpGet("testerror")]
+        public IActionResult ThrowError()
+        {
+            throw new Exception("Test crash");
+        }
     }
 
     // User model
