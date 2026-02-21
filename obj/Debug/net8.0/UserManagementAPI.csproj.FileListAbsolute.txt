@@ -34,3 +34,4 @@ D:\Desktop\Web_Development\Certificate#7\UserManagementAPI\obj\Debug\net8.0\refi
 D:\Desktop\Web_Development\Certificate#7\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.pdb
 D:\Desktop\Web_Development\Certificate#7\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.genruntimeconfig.cache
 D:\Desktop\Web_Development\Certificate#7\UserManagementAPI\obj\Debug\net8.0\ref\UserManagementAPI.dll
+D:\Desktop\Web_Development\Certificate#7\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.sourcelink.json
